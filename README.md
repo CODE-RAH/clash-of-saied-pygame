@@ -67,8 +67,9 @@
 
 1. وارد سایت رسمی Python شوید و آخرین نسخه Python 3.x را دانلود کنید.
 2. هنگام نصب، حتماً گزینه زیر را فعال نمایید:
-```text
+
 ☑️ Add Python to PATH
+
 
 3. روی دکمه **Install Now** کلیک کنید تا نصب کامل شود.
 
@@ -105,109 +106,5 @@
 
 سپس دستور زیر را اجرا کنید:
 
-bash
+```bash
 pip install pygame
-
----
-
-# 🎮 کنترل‌های بازی
-
-| کلید | عملکرد |
-|------|---------|
-| `←` (چپ) | حرکت به چپ |
-| `→` (راست) | حرکت به راست |
-| `↑` (بالا) | پرش (Jump) |
-| `Space` | شلیک گلوله |
-
----
-
-# ▶️ اجرای بازی
-
-بعد از نصب کتابخانه و آماده‌سازی تصاویر، برای اجرای بازی دستور زیر را وارد کنید:
-
-bash
-python main.py
-
-> ⚠️ **توجه:** اگر نام فایل اصلی شما متفاوت است (مثلاً `game.py`)، نام فایل خود را جایگزین `main.py` کنید.
-
----
-
-# 🧠 درباره تیم CODE RAH
-
-تیم **CODE RAH** یک گروه تخصصی در حوزه‌های پیشرفته فناوری است که در زمینه‌های زیر فعالیت گسترده دارد:
-
-- 💻 برنامه‌نویسی و توسعه نرم‌افزار/بک‌اند  
-  `C#` `Java` `Python` `JavaScript`
-
-- 🎮 توسعه بازی‌های ویدیویی  
-  `Pygame` `Unity` `Godot`
-
-- 🔒 امنیت سایبری و تست نفوذ  
-  `Ethical Hacking` `Kali Linux`
-
-- 🤖 هوش مصنوعی و بینایی ماشین  
-  `Machine Learning` `YOLO` `OpenCV`
-
-- ⚙️ سیستم‌های سخت‌افزاری و اینترنت اشیاء  
-  `Arduino` `Raspberry Pi`
-
----
-
-# 🎓 کلاس‌ها و دوره‌های آموزشی
-
-ما در **CODE RAH** معتقدیم بازی‌سازی، ترکیب هنر و برنامه‌نویسی است.
-
-به همین جهت، دوره‌های تخصصی **ساخت بازی با Python و Pygame** را برای علاقه‌مندان به ورود به دنیای گیم‌دیولوپمنت برگزار می‌کنیم. این پروژه نیز نمونه‌ای از پروژه‌های عملیاتی است که در دوره‌ها تدریس می‌شود.
-
----
-
-# ⚡ مهارت‌ها و فناوری‌ها
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![Pygame](https://img.shields.io/badge/Pygame-100000?style=for-the-badge&logo=python&logoColor=white&color=green)
-
-![Game Development](https://img.shields.io/badge/Game%20Development-FF0000?style=for-the-badge)
-
-![2D Shooter](https://img.shields.io/badge/2D%20Action%20Shooter-FF6B00?style=for-the-badge)
-
-![Sprite Based](https://img.shields.io/badge/Sprite%20Based%20Graphics-9B59B6?style=for-the-badge)
-
-</div>
-
----
-
-# 🌐 ارتباط با ما
-
-برای شرکت در دوره‌های آموزشی بازی‌سازی، دریافت مشاوره‌های فنی و دنبال کردن پروژه‌های جدید، ما را در شبکه‌های اجتماعی دنبال کنید.
-
----
-
-<div align="center">
-
-# 💻 CODE RAH
-
-### کدنویسی فقط نوشتن برنامه نیست؛ ساختن آینده است.
-
-⭐ اگر از این پروژه خوشتان آمد، فراموش نکنید به پروژه ستاره بدهید ⭐
-
-</div>
-
-
-### 💡 نکات تکمیلی برای GitHub:
-
-1. **ساختار پوشه‌ها:** پیشنهاد می‌کنم پروژه را این شکلی مرتب کنی:
-Clash-of-Saied/
-   ├── main.py (همین کد شما)
-   ├── README.md
-   ├── requirements.txt (داخلش بنویس: pygame)
-   └── assets/
-├── player.png
-├── enemy.png
-├── bullet.png
-├── enemy_bullet.png
-├── heart.png
-└── grass.png
-   
