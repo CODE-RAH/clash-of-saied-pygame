@@ -1,22 +1,22 @@
 # Clash of Saied README
 
-````markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:dc2626,100:0f172a&text=Clash%20of%20Saied&fontColor=ffffff&fontSize=50&fontAlignY=40&desc=2D%20Action%20Side-Scroller%20Game%20with%20Pygame&descAlignY=63&animation=twinkling" width="100%" />
 
-# 🎮 بازی اکشن دو بعدی سعید (با فیزیک پرش و سیستم شلیک)
+<h1>🎮 بازی اکشن دو بعدی سعید</h1>
 
-### توسعه داده شده توسط تیم تخصصی CODE RAH 💻
+<h3>توسعه داده شده توسط تیم تخصصی CODE RAH 💻</h3>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pygame](https://img.shields.io/badge/Pygame-00979D?style=for-the-badge)
 ![GameDev](https://img.shields.io/badge/Game%20Development-7A42F4?style=for-the-badge)
 ![Physics](https://img.shields.io/badge/Game%20Physics-dc2626?style=for-the-badge)
-![Collision](https://img.shields.io/badge/Collision%20Detection-00C896?style=for-the-badge)
-![Sprite](https://img.shields.io/badge/Sprite%20Animation-FF6B00?style=for-the-badge)
 
 </div>
+
+---
+
 
 ---
 
